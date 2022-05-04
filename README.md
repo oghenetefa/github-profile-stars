@@ -1,7 +1,7 @@
 # <p align="center">Github profile - Stars</p>
 
 ## Table of Contents
-* [API](#api)https://github.com/asvd/syncscroll
+* [API](#api)
 * [Scripting](#scripting)
 * [Frontend_WEB](#frontend_web)
 
