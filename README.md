@@ -1,7 +1,7 @@
 # <p align="center">Github profile - Stars</p>
 
 ## Table of Contents
-* [API](#api)
+* [API](#api)https://github.com/asvd/syncscroll
 * [Scripting](#scripting)
 * [Frontend_WEB](#frontend_web)
 
@@ -15,3 +15,4 @@
 
 ### Frontend_WEB
 * [DOM purify HTML](https://github.com/cure53/DOMPurify)
+* [Sync scroll](https://github.com/asvd/syncscroll)
