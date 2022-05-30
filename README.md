@@ -3,8 +3,8 @@
 ### TABLE OF CONTENTS
 * [API](#api)
 * [Bots](#bots)
-* [Cheatsheet WEB](#cheatsheet-web)
-* [Frontend WEB](#frontend-web)
+* [Cheatsheet - WEB](#cheatsheet-web)
+* [Frontend - WEB](#frontend-web)
 
 
 ## API
@@ -21,3 +21,4 @@
 ## FRONTEND WEB
 * [DOM purify HTML](https://github.com/cure53/DOMPurify)
 * [Sync scroll](https://github.com/asvd/syncscroll)
+* [React Svg worldmap 01](https://github.com/yanivam/react-svg-worldmap)
